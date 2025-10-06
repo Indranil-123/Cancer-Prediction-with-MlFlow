@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b98fdd78c3c74e77a17bd08fca8db0da/artifacts
+end_time: 1759770900813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b98fdd78c3c74e77a17bd08fca8db0da
+run_name: zealous-cod-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759770900527
+status: 4
+tags: []
+user_id: '91906'
